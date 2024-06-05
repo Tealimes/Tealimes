@@ -1,17 +1,14 @@
-## Hi, my name is Alexander Peacock
+# Hi, my name is Alexander Peacock
 I'm an undergraduate Computer Engineering student at the University of Central Florida who is passionate about all things electronics. I enjoy learning new things, playing my favorite games, or even just trying new things. 
 
-<!--
-**Tealimes/Tealimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+
+<a href="mailto:al345758@ucf.edu">
+    <img height ="32" align = "left" alt= "Mail" src = "">
+</a>
